@@ -1,0 +1,8 @@
++ Path1
+  + Path2
+    + Path3
+      + Path4
+        + Path5
+          Item: Item1
+        + Path6
+          Item: Item2

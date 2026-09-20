@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SearchForItem.Interfaces/SearchForItem.Interfaces.csproj" />
+  <Project Path="SearchForItem/SearchForItem.csproj" />
+</Solution>
